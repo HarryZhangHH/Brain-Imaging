@@ -1,5 +1,5 @@
 # Brain-Imaging
-pRF mapping
+# pRF mapping
 
 The Population Receptive Field (pRF) approach is a nice example of how recently, computational modeling of fMRI BOLD responses has become the way to go about analyzing your data. The method and model fit not only into the neuroimaging literature, but extend the idea of the receptive field from single-cell electrophysiology into fMRI.
 Related paper； Population receptive field estimates in human visual cortex, Dumoulin & Wandell, 2008, and Visual Field Maps in Human Cortex, Brewer, Dumoulin & Wandell, 2007, and Compressive spatial summation in human visual cortex, Kendrick & Jonathan, 2013
